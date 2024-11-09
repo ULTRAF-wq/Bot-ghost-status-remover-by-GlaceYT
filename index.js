@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["𝗕𝗼𝘁 𝗠𝗮𝗱𝗲 𝗕𝘆 𝗦𝗛𝗤𝗟7"];
+const statusMessages = ["𝗕𝗼𝘁 𝗠𝗮𝗱𝗲 𝗕𝘆 𝗕𝗔𝗗𝗪𝗜"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
